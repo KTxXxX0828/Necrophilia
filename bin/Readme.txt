@@ -17,3 +17,6 @@ Made by Ptr35
 3/24
 Release 1.5
 Change MBR code and add warning screen
+3/24
+Release 2.0
+Fix not working bugs and add 2 GDI payload
