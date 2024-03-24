@@ -20,3 +20,6 @@ Change MBR code and add warning screen
 3/24
 Release 2.0
 Fix not working bugs and add 2 GDI payload
+3/24
+Release 2.1
+Fix sound desync bugs
