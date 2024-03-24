@@ -2,8 +2,8 @@ NECROPHILIA.EXE
 ---desc---
 Necrophilia.exe is small and short GDI trojan.
 ---info---
-Language:C# in powershell
-MBRCODE:Skid by mist0090 (github.com/mist0090)
+Language:powershell
+MBRCODE:No skid
 Source code:No release forever
 Edit reg:No
 Using:Resource Hacker, Iexpress(lol),Visual studio code, Rider
@@ -11,5 +11,9 @@ Using:Resource Hacker, Iexpress(lol),Visual studio code, Rider
 NOTE:CREATOR WAS NOT RESPONSIBLE ANY DAMAGES!!!
 THIS TROJAN HAVEN'T WARNING MESSAGES!
 ---credits---
-Thanks to MBR code:Mist0090
+*Old version MBR was skidded by mist*
 Made by Ptr35
+
+3/24
+Release 1.5
+Change MBR code and add warning screen
